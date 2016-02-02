@@ -1,0 +1,462 @@
+,group_name,city,country,ratings,created_date,members,last_event,next_event,category,primary_topic,membership_fees
+0,The Austin Python Meetup,Austin,US,4.62,1208191517000,2654,,,tech,,0
+1,Austin Coders & Hackers by The Tech^map,Austin,US,4.68,1219011353000,781,,,tech,,0
+2,Austin Web Python,Austin,US,4.71,1294764094000,1208,,,tech,,0
+3,Austin Learn Python Meetup,Austin,US,4.63,1352494438000,801,,,tech,,0
+4,PyLadies ATX,Austin,US,4.69,1353534744000,558,,,tech,,0
+5,Austin Openshift Meetup,Austin,US,5,1353954129000,63,,,tech,,0
+6,Austin MongoDB User Group,Austin,US,4.46,1356710983000,605,,,tech,,0
+7,OpenHack Austin,Austin,US,4.66,1372133519000,1350,,,tech,,0
+8,PyFi,Austin,US,0,1376540044000,44,,,tech,,0
+9,Austin Software Test Automation Group,Austin,US,4.68,1379005866000,471,,,tech,,0
+10,Austin Data,Austin,US,4.87,1400542048000,1188,,,tech,,0
+11,Austin Coding Academy,Austin,US,5,1403496739000,627,,,tech,,0
+12,Austin Saltstack User Group,Austin,US,4.83,1403766650000,117,,,tech,,0
+13,Austin Spark Meetup,Austin,US,4.64,1406652323000,377,,,tech,,0
+14,Austin Text - Natural Language Processing,Austin,US,4.67,1417209443000,261,,,tech,,0
+15,ATX Sports Analytics,Austin,US,5,1422290459000,235,,,tech,,0
+16,ATX Django,Austin,US,0,1428071664000,50,,,tech,,0
+17,Austin Data Science,Austin,US,4.33,1435097738000,534,,,tech,,0
+18,Women in Data Science - ATX,Austin,US,5,1437061829000,155,,,tech,,0
+19,Austin New Relic User Group,Austin,US,0,1438618606000,39,,,tech,,0
+20,PyHou - Houston Python Enthusiasts!,Houston,US,4.5,1035259201000,1052,,,tech,,0
+21,PyWeb Houston,Houston,US,4.74,1288892784000,409,,,tech,,0
+22,Houston Open Development,Houston,US,4.69,1347033499000,432,,,tech,,0
+23,Houston Recreational Computer Programming Group,Houston,US,4.33,1378046797000,446,,,tech,,0
+24,Houston MongoDB User Group (MUG),Houston,US,5,1382727461000,166,,,tech,,0
+25,PyLadies HTX,Houston,US,4.84,1404835383000,206,,,tech,,0
+26,Houston Network Programmability User Group (NPUG),Houston,US,4.5,1435776519000,109,,,tech,,0
+27,Silicon Valley MySQL Group,Palo Alto,US,4.43,1102659536000,781,,,tech,,0
+28,SF Bay Area Google App Engine Developers,San Francisco,US,4.49,1209854212000,950,,,tech,,0
+29,San Francisco Python Meetup Group,San Francisco,US,4.63,1213377311000,7030,,,tech,,0
+30,Bay Area Hierarchical Temporal Memory Meetup Group,Menlo Park,US,4.6,1223530637000,267,,,education/learning,,0
+31,Software QA and Testers,Daly City,US,4.49,1226436230000,902,,,tech,,0
+32,The San Francisco Django Meetup Group,San Francisco,US,4.63,1228535787000,2420,,,tech,,0
+33,Designers + Geeks,San Francisco,US,4.51,1268773482000,10092,,,tech,,0
+34,Google Developer Group East Bay,Fremont,US,4.6,1271098240000,839,,,tech,,0
+35,San Francisco MongoDB User Group,San Francisco,US,4.43,1271359205000,2945,,,tech,,0
+36,San Francisco Telephony Group,San Francisco,US,4.73,1273612962000,301,,,tech,,0
+37,SFBay OpenStack,San Francisco,US,4.52,1279057412000,5353,,,tech,,0
+38,San Francisco Python Pub Night,San Francisco,US,4.55,1279775185000,658,,,tech,,0
+39,106 Miles,Palo Alto,US,4.64,1280782102000,7028,,,tech,,0
+40,ArchCamp,San Francisco,US,4.6,1281393760000,485,,,tech,,0
+41,Bay Area Software Engineers (BASE),San Francisco,US,4.41,1300399355000,6472,,,tech,,0
+42,Silicon Valley Hack and Tell,San Francisco,US,4.72,1303407162000,274,,,tech,,0
+43,Black Techies,Oakland,US,4.52,1308916327000,1543,,,tech,,0
+44,Bay Area Hackathons,San Francisco,US,4.79,1310765836000,3496,,,tech,,0
+45,SF Developer Advocates,San Francisco,US,4.8,1311633398000,302,,,tech,,0
+46,Women Who Code SF,San Francisco,US,4.78,1311875189000,8817,,,tech,,0
+47,The Stripe Meetup Group,San Francisco,US,4.62,1320869098000,1021,,,tech,,0
+48,Silicon Valley Hackathons,Palo Alto,US,5,1320891844000,804,,,tech,,0
+49,The Odoo Meetup Group,San Francisco,US,4.87,1321074016000,276,,,tech,,0
+50,San Francisco Python Hack Night,San Francisco,US,4.58,1327442998000,441,,,tech,,0
+51,Silicon Valley MongoDB User Group,San Francisco,US,4.56,1330473272000,1452,,,tech,,0
+52,Bay Area Russian Speaking Hackers & Developers,Palo Alto,US,5,1331096900000,329,,,tech,,0
+53,PyLadies of San Francisco,San Francisco,US,4.79,1333518348000,2800,,,tech,,0
+54,The Disqus Meetup Group,San Francisco,US,4.93,1337206839000,291,,,tech,,0
+55,Developing with Data in San Francisco,San Francisco,US,4.92,1339100460000,1346,,,tech,,0
+56,San Francisco Twisted Python Meetup,San Francisco,US,4.84,1340989233000,257,,,tech,,0
+57,San Francisco PyData,San Francisco,US,4.73,1340992150000,1472,,,tech,,0
+58,Fin-Hack,San Francisco,US,4,1342641123000,138,,,tech,,0
+59,SF Bay Kickstarters & Crowdfunding,Berkeley,US,4.98,1357534546000,753,,,career/business,,0
+60,Silicon Valley Python Data Science,Palo Alto,US,0,1358407201000,410,,,tech,,0
+61,Escape from /dev/null CA,San Francisco,US,0,1360319560000,56,,,tech,,0
+62,Twilio San Francisco Meetup Group,San Francisco,US,4.91,1360888668000,321,,,tech,,0
+63,API Discovery,San Francisco,US,4.89,1361405911000,532,,,tech,,0
+64,Spotify SF Dev Group,San Francisco,US,4.62,1361584057000,221,,,tech,,0
+65,Data Science for Sustainability,Redwood City,US,4.77,1365203114000,2062,,,tech,,0
+66,SF Data Science,San Francisco,US,4.56,1373044225000,6376,,,tech,,0
+67,Oakland Beginner's Programming Support Group,Oakland,US,4.53,1378173691000,317,,,tech,,0
+68,Code Crew San Francisco,San Francisco,US,5,1384989901000,290,,,tech,,0
+69,Code Self Study,Berkeley,US,4.99,1386563305000,1306,,,tech,,0
+70,Dropbox Platform Meetup,San Francisco,US,4.9,1388442342000,403,,,tech,,0
+71,Dave Briccetti’s Young Programmers,Lafayette,US,4.8,1391967245000,433,,,tech,,0
+72,SF Computer Language Design and Implementation,San Francisco,US,4.83,1392321322000,462,,,tech,,0
+73,Ladies in Tech Social Club,San Francisco,US,5,1395780170000,146,,,tech,,0
+74,The future of eCommerce: Spree Commerce Meetup,San Francisco,US,4.89,1398372540000,154,,,tech,,0
+75,ACM SIGAI Bay Area Chapter,Palo Alto,US,4.92,1398704885000,763,,,tech,,0
+76,SF Full Stack Data Viz,San Francisco,US,4.46,1399304392000,428,,,tech,,0
+77,Building Excellent Engineering Resources,San Francisco,US,0,1400782326000,59,,,tech,,0
+78,Women Who Code East Bay,Oakland,US,4.77,1402587256000,895,,,tech,,0
+79,GDG Berkeley,Berkeley,US,5,1406584074000,543,,,tech,,0
+80,RethinkDB SF Meetup Group,San Francisco,US,4.93,1407968067000,557,,,tech,,0
+81,BAyPIGgies,Palo Alto,US,4.61,1411334235000,391,,,tech,,0
+82,The San Francisco Flask Meetup Group,San Francisco,US,4.93,1414540094000,418,,,tech,,0
+83,East Bay Python Web Development,Oakland,US,4.89,1415997363000,665,,,tech,,0
+84,Yo Developer Community,San Francisco,US,5,1421623355000,124,,,tech,,0
+85,SF Healthcare Hackup,San Francisco,US,0,1421782211000,49,,,tech,,0
+86,Object Thinking in Silicon Valley,Palo Alto,US,0,1421793333000,19,,,tech,,0
+87,Introduction to Machine Learning: Courses,San Francisco,US,0,1422294718000,487,,,tech,,0
+88,Mountain View Algorithm Design,Palo Alto,US,4.68,1422301071000,1865,,,tech,,0
+89,San Francisco Nitrous Group,San Francisco,US,0,1422638667000,9,,,tech,,0
+90,Multithreaded Data,San Francisco,US,4.97,1423152952000,1062,,,tech,,0
+91,Scientists New to Data Science and Programming,San Francisco,US,5,1427406190000,196,,,tech,,0
+92,CodeClass.io,San Francisco,US,0,1427817414000,171,,,tech,,0
+93,Bay Area Mercurial Meetup,San Francisco,US,5,1430163263000,36,,,tech,,0
+94,The Root Zone,San Francisco,US,0,1430431330000,53,,,tech,,0
+95,ChatOps San Francisco,San Francisco,US,0,1431729204000,215,,,tech,,0
+96,Spark Global Online Meetup,San Francisco,US,4.5,1433637044000,1103,,,tech,,0
+97,San Francisco Data Science #ODSC,San Francisco,US,4.9,1435350068000,717,,,tech,,0
+98,OpenScience: The OpenTable  Data Science  Meetup,San Francisco,US,5,1436899004000,277,,,tech,,0
+99,San Francisco Blockchain Meetup,San Francisco,US,4.5,1437428366000,209,,,tech,,0
+100,Bay Area Quant Club,Menlo Park,US,5,1438300423000,311,,,tech,,0
+101,Autism Success in Tech,Berkeley,US,0,1444546225000,41,,,tech,,0
+102,Bay Area Building Intelligent Applications Meetup,San Francisco,US,0,1447113104000,137,,,tech,,0
+103,East Bay DevOps Meetup,Walnut Creek,US,5,1447721560000,95,,,tech,,0
+104,Learning Data Science,San Francisco,US,0,1449796690000,370,,,tech,,0
+105,Hackbright Academy,San Francisco,US,5,1449797660000,117,,,tech,,0
+106,Berkeley Data Science Meetup,Berkeley,US,0,1450284665000,219,,,tech,,0
+107,Raspberry Pi SF Peninsula Meetup,San Mateo,US,5,1451689944000,104,,,tech,,0
+108,Serverless,San Francisco,US,0,1451984479000,146,,,tech,,0
+109,Holberton School,San Francisco,US,0,1452741055000,68,,,tech,,0
+110,Bay Area Python3.x Rigorous Indulgence Group (BayPRIGgies),Palo Alto,US,0,1453233275000,51,,,tech,,0
+111,Silicon Valley MySQL Group,Palo Alto,US,4.43,1102659536000,781,,,tech,,0
+112,Hackers and Founders,Mountain View,US,4.6,1206761791000,13122,,,tech,,0
+113,Bay Area Hierarchical Temporal Memory Meetup Group,Menlo Park,US,4.6,1223530637000,267,,,education/learning,,0
+114,Google Developer Group Silicon Valley,Mountain View,US,4.38,1234470551000,8645,,,tech,,0
+115,Silicon Valley Python Meetup,Mountain View,US,4.49,1244059959000,3874,,,tech,,0
+116,Google Developer Group East Bay,Fremont,US,4.6,1271098240000,839,,,tech,,0
+117,106 Miles,Palo Alto,US,4.64,1280782102000,7028,,,tech,,0
+118,"Greetings, Hackternooners !",Santa Clara,US,4.71,1311099141000,1365,,,tech,,0
+119,Silicon Valley Hackathons,Palo Alto,US,5,1320891844000,804,,,tech,,0
+120,Bay Area Russian Speaking Hackers & Developers,Palo Alto,US,5,1331096900000,329,,,tech,,0
+121,Silicon Valley Machine Learning,Mountain View,US,4.5,1343773652000,6184,,,tech,,0
+122,Silicon Valley Python Data Science,Palo Alto,US,0,1358407201000,410,,,tech,,0
+123,DataStax Cassandra South Bay Users,Cupertino,US,4.44,1360042764000,2110,,,tech,,0
+124,Data Science for Sustainability,Redwood City,US,4.77,1365203114000,2062,,,tech,,0
+125,SaltStack user group - Silicon Valley,Mountain View,US,4.23,1370637932000,253,,,tech,,0
+126,ACM SIGAI Bay Area Chapter,Palo Alto,US,4.92,1398704885000,763,,,tech,,0
+127,RethinkDB Bay Area Group,Mountain View,US,4.92,1398728074000,466,,,tech,,0
+128,Women Who Code Silicon Valley,Sunnyvale,US,4.9,1399992406000,1583,,,tech,,0
+129,BAyPIGgies,Palo Alto,US,4.61,1411334235000,391,,,tech,,0
+130,South County Web Developers,Morgan Hill,US,5,1419784540000,50,,,tech,,0
+131,Competitive Programming,Sunnyvale,US,4.75,1420957030000,289,,,tech,,0
+132,JFrog Silicon Valley Meetups,Santa Clara,US,5,1421243893000,155,,,None,,0
+133,Object Thinking in Silicon Valley,Palo Alto,US,0,1421793333000,19,,,tech,,0
+134,Mountain View Algorithm Design,Palo Alto,US,4.68,1422301071000,1865,,,tech,,0
+135,WhizKidz Computer Programmers - Free Lessons,San Jose,US,5,1430887630000,410,,,tech,,0
+136,SV Python Workshops,Mountain View,US,0,1431314524000,352,,,tech,,0
+137,Bay Area Quant Club,Menlo Park,US,5,1438300423000,311,,,tech,,0
+138,Santa Cruz Python Meetup,Santa Cruz,US,4.77,1439661220000,107,,,tech,,0
+139,Python Learning Meetup,Mountain View,US,0,1439704014000,50,,,tech,,0
+140,All Things Python,Sunnyvale,US,4.5,1445222241000,372,,,tech,,0
+141,PyLadies Silicon Valley,Sunnyvale,US,0,1449205033000,65,,,tech,,0
+142,Raspberry Pi SF Peninsula Meetup,San Mateo,US,5,1451689944000,104,,,tech,,0
+143,XXXXXXXXXXXX,Mountain View,US,0,1453046695000,1,,,tech,,0
+144,Bay Area Python3.x Rigorous Indulgence Group (BayPRIGgies),Palo Alto,US,0,1453233275000,51,,,tech,,0
+145,Los Angeles LAMP Developers (PHP/Perl/Python/Mysql/Apache),Los Angeles,US,4.76,1196120263000,607,,,tech,,0
+146,SoCal Python,Los Angeles,US,4.74,1203021919000,1569,,,tech,,0
+147,LA Web/Mobile Software Entrepreneurs,Santa Monica,US,4.18,1227555602000,2888,,,tech,,0
+148,LA Django,Beverly Hills,US,4.7,1256234921000,856,,,tech,,0
+149,OCPython: US.CA.Orange County's Python Community Group,Tustin,US,4.71,1264615066000,805,,,tech,,0
+150,LA Startup Nights,Santa Monica,US,4.78,1273362449000,745,,,tech,,0
+151,106 Miles - Southern California Edition,Los Angeles,US,4.54,1314297780000,1670,,,tech,,0
+152,Los Angeles Hack Night,Los Angeles,US,4.83,1329264909000,1147,,,tech,,0
+153,OpenStack LA,Pasadena,US,4.68,1330391423000,879,,,tech,,0
+154,Los Angeles Blender 3D Meetup Group,Los Angeles,US,4.83,1357517891000,492,,,tech,,0
+155,"Makerden: IoT, Programming & Electronics for Makers",Pasadena,US,4.9,1363043300000,1275,,,tech,,0
+156,KidsCanCode: Coding Classes for Kids,North Hollywood,US,0,1369937596000,110,,,parents/family,,0
+157,Pyladies.LosAngeles,Los Angeles,US,4.9,1371499665000,522,,,tech,,0
+158,LA Animation and VFX Pipeline Developers Meetup,Culver City,US,4.59,1379362897000,167,,,tech,,0
+159,Community Hack Night,Santa Monica,US,4.9,1389385388000,1472,,,tech,,0
+160,Women Who Code LA,Culver City,US,4.92,1392176428000,985,,,tech,,0
+161,OCLUG -  Linux User Group Meetup,Fullerton,US,0,1397333082000,101,,,tech,,0
+162,Los Angeles Professional Python Users Group,Santa Monica,US,5,1399588074000,198,,,tech,,0
+163,Python Data Science LA,Santa Monica,US,5,1407993093000,1131,,,tech,,0
+164,L.A. RESTful API Working Group,Los Angeles,US,0,1408063003000,192,,,tech,,0
+165,South Bay Python Group,Redondo Beach,US,4.83,1411956502000,221,,,tech,,0
+166,Orange County DevOps Meetup,Garden Grove,US,4.96,1418220278000,194,,,tech,,0
+167,Software Developers' Legal Meetup,Santa Monica,US,5,1420581146000,178,,,tech,,0
+168,Dogtown Tech,Los Angeles,US,5,1426630180000,552,,,tech,,0
+169,GirlHack -  A weekly hack for the ladies.,Santa Monica,US,5,1430851226000,50,,,tech,,0
+170,Los Angeles Data Science,Los Angeles,US,0,1435100390000,125,,,tech,,0
+171,Bring Your Flask,Huntington Beach,US,0,1441170418000,15,,,tech,,0
+172,LA Software Craftsmanship,Santa Monica,US,5,1441601061000,127,,,tech,,0
+173,Los Angeles Quant Club,Los Angeles,US,5,1446684467000,110,,,tech,,0
+174,Long Beach Apps,Long Beach,US,0,1449165952000,77,,,tech,,0
+175,API Craft Los Angeles,Santa Monica,US,0,1452847375000,88,,,tech,,0
+176,San Diego Data Science & R Users Group,Del Mar,US,4.78,1255543450000,675,,,tech,,0
+177,San Diego Artificial Intelligence,San Diego,US,4.75,1313519000000,762,,,tech,,0
+178,San Diego Python Users Group,San Diego,US,4.78,1326433663000,1401,,,tech,,0
+179,PyLadies San Diego,San Diego,US,4.87,1348528939000,303,,,tech,,0
+180,Docker San Diego,San Diego,US,4.7,1415843941000,240,,,tech,,0
+181,San Diego Data Science,San Diego,US,0,1446937324000,109,,,tech,,0
+182,San Diego Web Dev Labs,San Diego,US,0,1448909855000,50,,,tech,,0
+183,San Diego Make Lab,San Diego,US,0,1450674797000,6,,,tech,,0
+184,Python Data Science - Seattle - Bellevue,Seattle,US,4.42,1287688176000,1144,,,tech,,0
+185,Seattle Bootstrappers,Seattle,US,4.58,1317451362000,667,,,tech,,0
+186,Seattle Software Craftsmanship Community,Seattle,US,4.51,1326937368000,1582,,,tech,,0
+187,Seattle PyLadies,Seattle,US,4.51,1350353510000,692,,,tech,,0
+188,Django Seattle,Seattle,US,4.47,1374510674000,344,,,tech,,0
+189,Code Fellows Seattle Meetup,Seattle,US,4.61,1391468891000,849,,,tech,,0
+190,Puget Sound Programming Python (PuPPy),Seattle,US,4.9,1408575806000,1700,,,tech,,0
+191,Seattle AngularJS Meetup,Seattle,US,4.88,1413474760000,706,,,tech,,0
+192,Learn Python - Seattle / Bellevue,Seattle,US,0,1424717417000,114,,,tech,,0
+193,Learn to Code Seattle,Seattle,US,4.83,1427152214000,1412,,,tech,,0
+194,Seattle SaltStack Meetup,Seattle,US,4,1427752386000,143,,,tech,,0
+195,Write The Docs Seattle,Seattle,US,4.8,1432057494000,123,,,tech,,0
+196,Web Development Bootcamp - Seattle,Bellevue,US,0,1438022899000,257,,,tech,,0
+197,Super Happy Fun Data Time,Seattle,US,5,1442601883000,192,,,tech,,0
+198,Seattle Building Intelligent Applications Meetup,Seattle,US,0,1447110628000,64,,,tech,,0
+199,PyData Seattle,Seattle,US,0,1449687732000,141,,,tech,,0
+200,Seattle Teachers for Coding and Web Development,Seattle,US,0,1452622595000,16,,,tech,,0
+201,Etc and Whatnot,Seattle,US,0,1454283916000,1,,,tech,,0
+202,Portland Python User Group,Portland,US,4.72,1178080267000,1870,,,tech,,0
+203,pdx Selenium & Test Automation Users Group,Portland,US,4.71,1322769393000,776,,,tech,,0
+204,PyLadies PDX,Portland,US,4.88,1346982867000,558,,,tech,,0
+205,Portland Data Science Group,Portland,US,4.74,1384049109000,1093,,,tech,,0
+206,Women Who Code Portland,Portland,US,4.59,1402441024000,1114,,,tech,,0
+207,Ansible Portland,Portland,US,4.72,1416853036000,173,,,tech,,0
+208,Code Fellows Portland Meetup,Portland,US,4.58,1420648423000,563,,,tech,,0
+209,Code Oregon,Portland,US,4.64,1432753634000,909,,,tech,,0
+210,Portland OpenDaylight Users Group,Portland,US,0,1439572188000,23,,,tech,,0
+211,Portland New Relic User Group,Portland,US,0,1448399455000,40,,,tech,,0
+212,Portland Shell Hackers (pdx.sh),Portland,US,0,1454172176000,6,,,tech,,0
+213,Portland Python User Group,Portland,US,4.72,1178080267000,1870,,,tech,,0
+214,pdx Selenium & Test Automation Users Group,Portland,US,4.71,1322769393000,776,,,tech,,0
+215,PyLadies PDX,Portland,US,4.88,1346982867000,558,,,tech,,0
+216,Portland Data Science Group,Portland,US,4.74,1384049109000,1093,,,tech,,0
+217,Women Who Code Portland,Portland,US,4.59,1402441024000,1114,,,tech,,0
+218,Ansible Portland,Portland,US,4.72,1416853036000,173,,,tech,,0
+219,Code Fellows Portland Meetup,Portland,US,4.58,1420648423000,563,,,tech,,0
+220,Code Oregon,Portland,US,4.64,1432753634000,909,,,tech,,0
+221,Portland OpenDaylight Users Group,Portland,US,0,1439572188000,23,,,tech,,0
+222,Portland New Relic User Group,Portland,US,0,1448399455000,40,,,tech,,0
+223,Portland Shell Hackers (pdx.sh),Portland,US,0,1454172176000,6,,,tech,,0
+224,Melbourne Python Charmers Meetup Group,Melbourne,AU,4.65,1287726016000,960,,,tech,,0
+225,Melbourne Web Developers,Melbourne,AU,4.83,1313474330000,2617,,,tech,,0
+226,MelbDjango,Melbourne,AU,4.63,1366074750000,535,,,tech,,0
+227,Linux Users of Victoria,Melbourne,AU,4.6,1369797273000,703,,,tech,,0
+228,Women Who Code Melbourne,Melbourne,AU,3.9,1399140074000,403,,,tech,,0
+229,Melbourne AppDynamics User Group,Melbourne,AU,5,1405471393000,174,,,tech,,0
+230,Codecademy Melbourne,Melbourne,AU,4.4,1435148899000,434,,,tech,,0
+231,Cryptohack Melbourne,Melbourne,AU,5,1438488210000,200,,,tech,,0
+232,Common Data Melbourne,Melbourne,AU,0,1439880998000,45,,,tech,,0
+233,Citizen Data Scientists - Melbourne,Melbourne,AU,4.78,1440867311000,427,,,tech,,0
+234,Melbourne GraphLab Users,Melbourne,AU,0,1449822453000,66,,,tech,,0
+235,Port80 Adelaide,Adelaide,AU,4.39,1352408378000,241,,,tech,,0
+236,Big Data Adelaide,Adelaide,AU,4.59,1409900002000,401,,,tech,,0
+237,Adelaide Apache Spark User Group,Adelaide,AU,0,1453959842000,8,,,tech,,0
+238,Australian OpenStack User Group,Sydney,AU,4.68,1319702120000,1185,,,tech,,0
+239,SyDjango,Sydney,AU,4.67,1340410983000,352,,,tech,,0
+240,Sydney Python (SyPy),Sydney,AU,4.63,1342413199000,1686,,,tech,,0
+241,Women Who Code Sydney,Sydney,AU,4.71,1390266579000,885,,,tech,,0
+242,Sydney Ansible User Group,Sydney,AU,4.88,1412879299000,273,,,tech,,0
+243,Sydney New Relic User Group,Sydney,AU,5,1422913105000,231,,,tech,,0
+244,Sydney Cloud Foundry Meetup,Sydney,AU,4.5,1427667851000,329,,,tech,,0
+245,Cumulus Networks & Open Networking - Sydney,Sydney,AU,0,1439323155000,16,,,tech,,0
+246,The Sydney Data Science Breakfast Meetup Group,Sydney,AU,4.5,1442371845000,163,,,tech,,0
+247,Sydney PyLadies,Sydney,AU,5,1443743817000,81,,,tech,,0
+248,Unikernels: The Next Generation Cloud User Group,Sydney,AU,0,1448887025000,112,,,tech,,0
+249,Sydney GraphLab Users,Sydney,AU,0,1450351949000,36,,,tech,,0
+250,The Perth Data Science Meetup,Perth,AU,4.8,1332975384000,340,,,tech,,0
+251,Perth Django Users Group,Perth,AU,4.56,1341460074000,106,,,tech,,0
+252,Perth Ethereum Meetup,Perth,AU,5,1397440090000,45,,,tech,,0
+253,Brisbane Python User Group,Brisbane,AU,4.52,1303525665000,509,,,tech,,0
+254,Women Who Code Brisbane,Brisbane,AU,4.62,1430860966000,236,,,tech,,0
+255,Ansible Brisbane,Brisbane,AU,0,1434299592000,44,,,tech,,0
+256,Mumbai Technology Meetup,Mumbai,IN,4.59,1393834377000,784,,,tech,,0
+257,Hack-A-Maya Mumbai,Mumbai,IN,4,1397429725000,20,,,tech,,0
+258,Navi Mumbai Python Programming Meetup,Navi Mumbai,IN,0,1402467780000,68,,,tech,,0
+259,Aegis-IBM BIG DATA,Mumbai,IN,3.88,1428486357000,744,,,tech,,0
+260,Ansible Mumbai,Mumbai,IN,4.33,1435244824000,164,,,tech,,0
+261,ERPNext Community Meetup,Mumbai,IN,0,1443683760000,111,,,tech,,0
+262,Mongo Dilli,Delhi,IN,4.4,1328629963000,1699,,,tech,,0
+263,Node.js Dilli,Delhi,IN,3.38,1335372798000,1606,,,tech,,0
+264,devOps NCR,Gurgaon,IN,4.75,1379650457000,135,,,tech,,0
+265,All Things Technology !,Delhi,IN,4.64,1380804509000,316,,,tech,,0
+266,Python-Django Dilli,Delhi,IN,3.75,1392923842000,643,,,tech,,0
+267,Pyladies India,Delhi,IN,3,1401869219000,52,,,tech,,0
+268,Gurgaon Django Meetup,Gurgaon,IN,4,1403868748000,54,,,tech,,0
+269,PyDelhi - Python Delhi User Group,Delhi,IN,4.42,1408821006000,1678,,,tech,,0
+270,India DevOps Meetup,Noida,IN,0,1443673583000,187,,,tech,,0
+271,BangPypers - Bangalore Python Users Group,Bangalore,IN,4.47,1333481202000,3772,,,tech,,0
+272,Bangalore Django User Group,Bangalore,IN,4.76,1350112890000,1453,,,tech,,0
+273,Women Who Code Bangalore,Bangalore,IN,4.5,1373559411000,589,,,tech,,0
+274,jnaapti - where passion meets perseverance,Bangalore,IN,4.84,1396940562000,988,,,tech,,0
+275,Free Software Promoters Network - Jnaapti,Bangalore,IN,5,1400751463000,109,,,tech,,0
+276,Bangalore C/C++ Meetup,Bangalore,IN,0,1405419083000,148,,,tech,,0
+277,Bangalore Open ERP Odoo Python Meetup,Bangalore,IN,5,1408163483000,83,,,tech,,0
+278,"Bangalore Python (Scikit-Learn, numpy, pandas ...) Meetup",Bangalore,IN,0,1408272276000,227,,,tech,,0
+279,Bangalore DevOps (Linux / Networking / Scripting) Meetup,Bangalore,IN,1,1410418468000,197,,,tech,,0
+280,Bangalore devOps Meetup,Bangalore,IN,0,1415089771000,113,,,tech,,0
+281,Spree Commerce User Group,Bangalore,IN,0,1415966286000,37,,,tech,,0
+282,Maya Hack,Bangalore,IN,0,1416678205000,63,,,tech,,0
+283,Bangalore : Site Reliability Engineering,Bangalore,IN,0,1418067791000,57,,,tech,,0
+284,AgriOnIoT,Bangalore,IN,4,1436349256000,459,,,tech,,0
+285,Let's python...,Bangalore,IN,0,1444979278000,169,,,tech,,0
+286,ERPNext Bangalore Community,Bangalore,IN,0,1449224944000,44,,,tech,,0
+287,Technology for Everybody,Bangalore,IN,0,1453184963000,52,,,tech,,0
+288,Beijing Python,Beijing,CN,4.74,1368096700000,842,,,tech,,0
+289,Beijing Edx Community,Beijing,CN,0,1412924095000,64,,,tech,,0
+290,Beijing Perl Mongers,Beijing,CN,0,1417412208000,46,,,tech,,0
+291,Ansible Beijing,Beijing,CN,0,1430166001000,61,,,tech,,0
+292,Django Shanghai Meetup Group,Shanghai,CN,5,1386433239000,43,,,tech,,0
+293,Shanghai Data Science,Shanghai,CN,4.66,1389429238000,448,,,tech,,0
+294,Shanghai OpenStack Meetup,Shanghai,CN,4.81,1398221711000,764,,,tech,,0
+295,Shanghai Web Dev and Design Club,Shanghai,CN,4.93,1413512656000,668,,,tech,,0
+296,Women Who Code Shanghai,Shanghai,CN,0,1443561684000,105,,,tech,,0
+297,Shanghai DevOps,Shanghai,CN,0,1447491299000,93,,,tech,,0
+298,Hong Kong Funders and Founders (HKFnF),Hong Kong,HK,4.61,1329639877000,861,,,tech,,0
+299,Open Source Hong Kong,Hong Kong,HK,4.5,1409662608000,688,,,tech,,0
+300,Ansible Hong Kong,Hong Kong,HK,0,1435499734000,32,,,tech,,0
+301,Hong Kong Python User Group,Hong Kong,HK,0,1440662647000,102,,,tech,,0
+302,Quant Finance,Toronto,CA,4.77,1296133796000,993,,,tech,,0
+303,Toronto MongoDB User Group,Toronto,CA,4.74,1301613696000,668,,,tech,,0
+304,#iOSTO (iOS Development and Business in Toronto),Toronto,CA,4.58,1317305492000,696,,,tech,,0
+305,Python Toronto,Toronto,CA,4.75,1355516656000,1343,,,tech,,0
+306,PyLadies Toronto,Toronto,CA,4.71,1357329569000,382,,,tech,,0
+307,Women Who Code Toronto,Toronto,CA,4.62,1390861494000,1009,,,tech,,0
+308,Bitcoin Developers,Toronto,CA,5,1414639333000,208,,,tech,,0
+309,Elasticsearch Toronto,Toronto,CA,5,1416895093000,285,,,tech,,0
+310,Toronto Data Literacy Group,Toronto,CA,4.71,1423330598000,409,,,tech,,0
+311,Ansible Toronto,Toronto,CA,0,1425444586000,173,,,tech,,0
+312,Toronto Hack and Tell,Toronto,CA,4.98,1426529640000,1088,,,tech,,0
+313,CodeSchoolTO,Toronto,CA,0,1436901744000,76,,,tech,,0
+314,TeamTreehouseTO,Toronto,CA,0,1436902520000,62,,,tech,,0
+315,Toronto Apache Spark,Toronto,CA,4.74,1436925349000,712,,,tech,,0
+316,Odoo Toronto,Toronto,CA,4.5,1446843500000,41,,,tech,,0
+317,Toronto Big Data Leaders,Toronto,CA,0,1451411671000,12,,,tech,,0
+318,VanDev: Vancouver's Software Developers Network,Vancouver,CA,4.36,1072723179000,4510,,,tech,,0
+319,djangovan: The Django Vancouver Meetup Group,Vancouver,CA,4.83,1214547664000,431,,,tech,,0
+320,Vancouver Python User Group,Vancouver,CA,4.69,1310078098000,1099,,,tech,,0
+321,Vancouver Spark Meetup,Vancouver,CA,4.15,1393282876000,429,,,tech,,0
+322,PyLadies Vancouver,Vancouver,CA,5,1431984492000,196,,,tech,,0
+323,Spark Vancouver,Vancouver,CA,0,1440814441000,87,,,tech,,0
+324,The Montreal Scheme/Lisp Users Group,Montréal,CA,4.83,1320068638000,50,,,tech,,0
+325,Odoo Montréal,Montréal,CA,4.68,1345756719000,290,,,tech,,0
+326,Montreal MongoDB User Group,Montréal,CA,4.5,1362153650000,191,,,tech,,0
+327,PyLadies Montréal,Montréal,CA,4.85,1366587802000,302,,,tech,,0
+328,YulDev,Montréal,CA,4.74,1397421537000,824,,,tech,,0
+329,Montréal-Python,Montréal,CA,4.65,1421855793000,949,,,tech,,0
+330,Montréal-Django,Montréal,CA,5,1442502819000,119,,,tech,,0
+331,Montréal Red Hat Users Group (RHUG),Montréal,CA,4.89,1442513269000,126,,,tech,,0
+332,Montréal Salt Users Meetup,Montréal,CA,0,1445535406000,39,,,tech,,0
+333,Montreal  Innovators,Montréal,CA,0,1452437954000,38,,,tech,,0
+334,Odoo Québec,Québec,CA,4.82,1378331778000,74,,,tech,,0
+335,Ville de Québec Red Hat Users Group (RHUG),Québec,CA,4.33,1441984299000,58,,,tech,,0
+336,PyYYC,Calgary,CA,4.54,1353800047000,286,,,tech,,0
+337,The London Python Group - TLPG,London,GB,4.57,1289498534000,2066,,,tech,,0
+338,The London Django Meetup Group,London,GB,4.72,1304942427000,863,,,tech,,0
+339,London Code Dojo,London,GB,4.87,1317041537000,1413,,,tech,,0
+340,XMPP UK Meetup,London,GB,4.17,1339689894000,107,,,tech,,0
+341,Learn Software Development,London,GB,4.85,1339770713000,997,,,tech,,0
+342,Python and Django Coding Session,London,GB,4.72,1358205649000,460,,,tech,,0
+343,Data Science Lab,London,GB,4.6,1358446297000,1558,,,tech,,0
+344,The Stripe Meetup Group: London,London,GB,4.5,1364413212000,130,,,tech,,0
+345,The London Pyramid Group,London,GB,4.62,1365898913000,72,,,tech,,0
+346,Code Crew London,London,GB,4,1385592476000,318,,,tech,,0
+347,"London ""There are no stupid questions"" Tech Meetup!",London,GB,0,1388254350000,33,,,tech,,0
+348,Women Who Code London,London,GB,4.73,1389028339000,2309,,,tech,,0
+349,Ethereum London,London,GB,4.64,1389577119000,1470,,,career/business,,0
+350,PyLadies London,London,GB,4.89,1394708337000,610,,,tech,,0
+351,Python for Quant Finance,London,GB,4.58,1397723707000,1191,,,tech,,0
+352,PyData London Meetup,London,GB,4.79,1398267437000,2715,,,tech,,0
+353,DevOps Enthusiast,London,GB,4.75,1402475056000,200,,,tech,,0
+354,London Open Data Missions,London,GB,4.96,1415018705000,405,,,tech,,0
+355,London Django-cms developers Meetup,London,GB,0,1429088262000,49,,,tech,,0
+356,emagine - Business & IT experts,London,GB,5,1430148792000,86,,,tech,,0
+357,Arista Networks London Meetup Group,London,GB,5,1433512633000,113,,,tech,,0
+358,London Kaggle Meetup,London,GB,4.98,1433678725000,602,,,tech,,0
+359,London Data Science Journal Club,London,GB,4.54,1434388231000,760,,,tech,,0
+360,London Data Science #ODSC,London,GB,5,1435593084000,695,,,tech,,0
+361,HackTrain - Innovating at 200km/h,London,GB,0,1439447455000,121,,,tech,,0
+362,London Python Project Nights,London,GB,5,1446566028000,119,,,tech,,0
+363,London Spark Coding Dojo,London,GB,0,1447348600000,160,,,tech,,0
+364,London Side Project Meetup,London,GB,0,1448027744000,50,,,tech,,0
+365,London Algorithmic Trading,London,GB,0,1452279820000,178,,,tech,,0
+366,Epic London Tech Jobs - Boolerang.io Meetup!,Greater London,GB,0,1453991416000,34,,,tech,,0
+367,Manchester Co-founders Matching Meetup,Manchester,GB,4.29,1410787551000,248,,,tech,,0
+368,CodeUp Manchester,Manchester,GB,4.88,1416993804000,899,,,tech,,0
+369,ManchesterAnalytics,Manchester,GB,0,1441885181000,79,,,tech,,0
+370,Data Science Manchester,Sale,GB,0,1448729293000,46,,,tech,,0
+371,Preston Computer Programmers Meetup,Preston,GB,0,1452768871000,16,,,tech,,0
+372,Manchester GraphLab Users,Manchester,GB,0,1453472690000,18,,,tech,,0
+373,Birmingham Open Code,Birmingham,GB,4.8,1395678172000,389,,,tech,,0
+374,Preston Computer Programmers Meetup,Preston,GB,0,1452768871000,16,,,tech,,0
+375,PyLadies Edinburgh,Edinburgh,GB,4.83,1404572356000,155,,,tech,,0
+376,Python Edinburgh,Edinburgh,GB,4.8,1408966248000,307,,,tech,,0
+377,Edinburgh Code Dojo,Edinburgh,GB,4.9,1421774746000,142,,,tech,,0
+378,Ansible Edinburgh,Edinburgh,GB,0,1435499314000,35,,,tech,,0
+379,CodeHub Bristol,Bristol,GB,4.78,1390419275000,617,,,tech,,0
+380,Women Who Code Bristol,Bristol,GB,4.93,1403028097000,194,,,tech,,0
+381,Bristol Data Scientists,Bristol,GB,4.5,1409056164000,298,,,tech,,0
+382,Python DBBUG,Bristol,GB,0,1447682045000,90,,,tech,,0
+383,PyDiff,Cardiff,GB,0,1447756154000,51,,,tech,,0
+384,Nottingham Programmers and Developers Meetup Group,Nottingham,GB,4.65,1242153515000,649,,,tech,,0
+385,Leicester Data Hacking and Visualisation Meetup,Leicester,GB,5,1414579627000,98,,,tech,,0
+386,Leicester Python User Group (LPUG),Leicester,GB,0,1445428468000,75,,,tech,,0
+387,Paris MongoDB User Group,Paris,FR,4.41,1309880296000,1484,,,tech,,0
+388,Django Paris,Paris,FR,4.63,1334477390000,559,,,tech,,0
+389,"Paris.py (Python, Django & friends)",Paris,FR,4.51,1368792812000,1385,,,tech,,0
+390,Paris Financial Engineering group,Paris,FR,4.66,1381828748000,460,,,tech,,0
+391,Les Ateliers Python de l'AFPy au NUMA,Paris,FR,4.14,1392734327000,442,,,tech,,0
+392,Ansible Paris,Paris,FR,4.55,1393321041000,734,,,tech,,0
+393,Kaggle Paris Meetup,Paris,FR,4.68,1394224257000,530,,,tech,,0
+394,(Paris (Emacs) Meetup),Paris,FR,4.65,1395758093000,146,,,tech,,0
+395,:vim paris **/*,Paris,FR,4.68,1396444578000,396,,,tech,,0
+396,"Big Data, Paris",Paris,FR,3.94,1413445746000,3059,,,tech,,0
+397,Deep Learning Paris Meetup,Paris,FR,4.76,1414767317000,1601,,,tech,,0
+398,Paris Odoo Community,Paris,FR,4,1421871589000,106,,,tech,,0
+399,@Flask.route('/Paris'),Paris,FR,5,1422447854000,106,,,tech,,0
+400,Code Class Paris,Paris,FR,4.29,1427233189000,336,,,tech,,0
+401,PyLadies Paris,Paris,FR,4.83,1431721771000,148,,,tech,,0
+402,"Datascience in Finance, Paris",Paris,FR,4.2,1435029660000,236,,,tech,,0
+403,Paris TensorFlow Meetup,Paris,FR,0,1449154819000,135,,,tech,,0
+404,FrenchData,Paris,FR,0,1454263529000,2,,,tech,,0
+405,Dutch Python & Django User Group,Amsterdam,NL,4.53,1300868758000,517,,,tech,,0
+406,Drinkalong !,Amsterdam,NL,4.5,1352398316000,88,,,tech,,0
+407,UtrechtIncCommunity,Utrecht,NL,3.67,1358247094000,154,,,career/business,,0
+408,Amsterdam Python Meetup Group,Amsterdam,NL,4.61,1370515503000,1231,,,tech,,0
+409,PyLadies Amsterdam,Amsterdam,NL,4.63,1373485780000,225,,,tech,,0
+410,Startupbootcamp Tech Talks,Amsterdam,NL,3.75,1384781848000,164,,,tech,,0
+411,Leiden Python Meetup Group,Leiden,NL,0,1396876356000,29,,,tech,,0
+412,DomCode,Utrecht,NL,4.67,1404134513000,836,,,tech,,0
+413,Amsterdam SaltStack User Group,Amsterdam,NL,0,1428916119000,44,,,tech,,0
+414,Amsterdam New Relic Meetup,Amsterdam,NL,4,1443205123000,59,,,tech,,0
+415,Utrecht Python Meetup Group,Utrecht,NL,0,1444592158000,68,,,tech,,0
+416,Big Data Developers in Amsterdam,Amsterdam,NL,4,1444995054000,304,,,tech,,0
+417,OpenRisk Meetup,Amsterdam,NL,0,1447440343000,49,,,tech,,0
+418,Predictive Analytics & Dato Amsterdam Meetup,Amsterdam,NL,0,1449818632000,78,,,tech,,0
+419,PyData Amsterdam,Amsterdam,NL,0,1452891178000,140,,,tech,,0
+420,Python Users Berlin (PUB),Berlin,DE,4.66,1352071340000,1408,,,tech,,0
+421,Backend Web Berlin,Berlin,DE,4.58,1357988294000,717,,,tech,,0
+422,PyLadies Berlin,Berlin,DE,4.73,1369394827000,392,,,tech,,0
+423,Django User Group Berlin (djub),Berlin,DE,4.75,1369857361000,599,,,tech,,0
+424,Geek2Geek - Berlin Tech Talk,Berlin,DE,4.88,1373355129000,602,,,tech,,0
+425,Raspberry Pi Berlin,Berlin,DE,4.75,1383225747000,337,,,tech,,0
+426,PyData Berlin,Berlin,DE,4.41,1393611306000,905,,,tech,,0
+427,Python Big Data Analytics,Berlin,DE,3.79,1397727469000,315,,,tech,,0
+428,Crate.IO Usergroup Berlin,Berlin,DE,4,1402473434000,57,,,tech,,0
+429,PySprints,Berlin,DE,4.44,1406617255000,74,,,tech,,0
+430,"RhodeCode User Group, Berlin",Berlin,DE,0,1410375227000,16,,,tech,,0
+431,Berlin Odoo Meetup,Berlin,DE,5,1417175569000,72,,,tech,,0
+432,FlashHacks Berlin: Open Data For Good,Berlin,DE,5,1426616938000,174,,,tech,,0
+433,Zalando Tech Events Berlin,Berlin,DE,4.11,1430747678000,1557,,,tech,,0
+434,Women Who Code Berlin,Berlin,DE,4.69,1430766691000,698,,,tech,,0
+435,Co-Learning Day,Berlin,DE,0,1434215597000,49,,,tech,,0
+436,More Micro Modules,Berlin,DE,0,1441304250000,50,,,tech,,0
+437,coders4help Berlin,Berlin,DE,5,1442652960000,98,,,tech,,0
+438,Berlin New Relic User Group,Berlin,DE,0,1443195851000,50,,,tech,,0
+439,IoT Innovation Lab,Berlin,DE,4.31,1447081560000,379,,,tech,,0
+440,Python User Group Hamburg,Hamburg,DE,4.75,1349678647000,343,,,tech,,0
+441,Django User Group Hamburg,Hamburg,DE,4.81,1359991202000,132,,,tech,,0
+442,Lunchtastic Hamburg,Hamburg,DE,5,1451652780000,87,,,tech,,0
+443,München MongoDB User Group,München,DE,4.71,1308160264000,544,,,tech,,0
+444,Hadoop User Group Munich (HUG Muenchen),München,DE,4.63,1344862215000,814,,,tech,,0
+445,Women Who Code München,München,DE,0,1396522233000,97,,,tech,,0
+446,München (Python|Data),München,DE,4.78,1406460059000,449,,,tech,,0
+447,PyLadies Munich,München,DE,4.72,1416476571000,167,,,tech,,0
+448,Ansible München,München,DE,4.5,1434300153000,127,,,tech,,0
+449,PyMunich,München,DE,5,1435577493000,173,,,tech,,0
+450,München Odoo Meetup,München,DE,0,1447665804000,13,,,tech,,0
+451,Py­thon User ­Group Rhein-­Main,Frankfurt,DE,4.67,1410528495000,254,,,tech,,0
+452,Ansible Frankfurt,Frankfurt,DE,0,1439176938000,37,,,tech,,0
+453,Arista Networks Germany User Group,Frankfurt,DE,0,1449497410000,19,,,tech,,0
+454,PyLadies Frankfurt,Frankfurt,DE,0,1451051052000,20,,,tech,,0
+455,Ansible Stuttgart,Stuttgart,DE,0,1438690338000,73,,,tech,,0
+456,Python User Group Köln,Köln,DE,4.5,1358105278000,149,,,tech,,0
+457,Düsseldorf Data Science Meetup,Düsseldorf,DE,4.89,1437836178000,310,,,tech,,0
+458,Django Girls Cologne - Programmieren für Frauen und Mädchen,Köln,DE,5,1445853761000,29,,,tech,,0
+459,PyData Cologne,Köln,DE,0,1448991110000,47,,,tech,,0
+460,Köln GraphLab Users,Köln,DE,0,1453580405000,27,,,tech,,0
